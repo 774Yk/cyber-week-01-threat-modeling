@@ -1,0 +1,6 @@
+{
+  "scope": "127.0.0.1 only",
+  "assets": [
+    {"name": "lab-server", "type": "http-service", "port": 8080, "owner": "training"}
+  ]
+}
