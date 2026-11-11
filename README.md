@@ -4,6 +4,17 @@ A reproducible, safety-first cybersecurity portfolio project. It demonstrates
 asset inventory, threat modeling, and low-impact reconnaissance against a
 bundled HTTP service that is intentionally restricted to loopback.
 
+## Project authorship
+
+This portfolio project is attributed to the project owner identified as:
+
+- Telegram: `Y_774`
+- WhatsApp: `Y771`
+- Gmail: `yassenalhajere@gmail.com`
+
+These are user-provided attribution details, not cryptographic proof of
+identity. See [`AUTHORSHIP.md`](AUTHORSHIP.md) for provenance guidance.
+
 ## Safety boundary
 
 **Use only the included local lab.** The scanner rejects non-local targets and
@@ -37,6 +48,7 @@ docker compose down
 
 - `app/lab_server.py` — simulated HTTP assets, loopback-only binding.
 - `tools/recon.py` — fixed-scope DNS, TCP, and HTTP discovery.
+- `AUTHORSHIP.md` — owner-provided attribution and provenance guidance.
 - `docs/ARCHITECTURE.md` — system architecture.
 - `docs/THREAT_MODEL.md` — assets, abuse cases, and mitigations.
 - `docs/SECURITY_ASSESSMENT.md` — professional assessment report.
