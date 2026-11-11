@@ -1,4 +1,9 @@
-"""Dependency-free guardrails for this educational repository."""
+"""Dependency-free guardrails for this educational repository.
+
+Author: Y_774
+Contact: yassenalhajere@gmail.com
+Developer handles: Telegram Y_774 | WhatsApp Y771
+"""
 from pathlib import Path
 import re
 

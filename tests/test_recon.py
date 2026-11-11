@@ -1,3 +1,10 @@
+"""Tests for the local-only reconnaissance lab.
+
+Author: Y_774
+Contact: yassenalhajere@gmail.com
+Developer handles: Telegram Y_774 | WhatsApp Y771
+"""
+
 import json
 import subprocess
 import sys

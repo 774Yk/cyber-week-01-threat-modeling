@@ -1,5 +1,9 @@
 """Intentionally simple local reconnaissance lab server.
 
+Author: Y_774
+Contact: yassenalhajere@gmail.com
+Developer handles: Telegram Y_774 | WhatsApp Y771
+
 This service is deliberately bound to 127.0.0.1 by default and contains only
 simulated assets. It is not intended for deployment or use against systems you
 do not own or explicitly have permission to test.

@@ -1,4 +1,9 @@
-"""Safe reconnaissance helper restricted to localhost targets."""
+"""Safe reconnaissance helper restricted to localhost targets.
+
+Author: Y_774
+Contact: yassenalhajere@gmail.com
+Developer handles: Telegram Y_774 | WhatsApp Y771
+"""
 from __future__ import annotations
 import argparse
 import json
